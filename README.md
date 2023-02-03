@@ -16,11 +16,11 @@
 <h2><strong>Languages:</strong></h2>
 <div height="180em" >
 
-<a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/-Python-000?&logo=Python"><img></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"><img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"><img></a>
-<a href="https://www.php.net/docs.php" target="_blank"><img src="https://img.shields.io/badge/-PHP-000?&logo=PHP"><img></a>
-<a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL"><img></a>
-<a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/-Java-000?&logo=java"><img></a>
+<a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/-Python-444?&logo=Python"><img></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"><img src="https://img.shields.io/badge/-JavaScript-444?&logo=JavaScript"><img></a>
+<a href="https://www.php.net/docs.php" target="_blank"><img src="https://img.shields.io/badge/-PHP-444?&logo=PHP"><img></a>
+<a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.shields.io/badge/-SQL-444?&logo=MySQL"><img></a>
+<a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/-Java-444?&logo=java"><img></a>
 </div>
 <br/>
 
@@ -29,11 +29,11 @@
 
 <div height="180em">
 
-<a href="https://laravel.com/docs/7.x" target="_blank"><img src="https://img.shields.io/badge/-Laravel-000?&logo=Laravel"><img></a>
-<a href="https://nodejs.org/docs/latest-v17.x/api/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js"><img></a>
-<a href="https://beta.reactjs.org/learn" target="_blank"><img src="https://img.shields.io/badge/-React-000?&logo=React"><img></a>
-<a href="https://v2.vuejs.org/v2/guide/" target="_blank"><img src="https://img.shields.io/badge/-Vue-000?&logo=Vue.Js"><img></a>
-<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img src="https://img.shields.io/badge/-Flask-000?&logo=Flask"><img></a>
+<a href="https://laravel.com/docs/7.x" target="_blank"><img src="https://img.shields.io/badge/-Laravel-444?&logo=Laravel"><img></a>
+<a href="https://nodejs.org/docs/latest-v17.x/api/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-444?&logo=node.js"><img></a>
+<a href="https://beta.reactjs.org/learn" target="_blank"><img src="https://img.shields.io/badge/-React-444?&logo=React"><img></a>
+<a href="https://v2.vuejs.org/v2/guide/" target="_blank"><img src="https://img.shields.io/badge/-Vue-444?&logo=Vue.Js"><img></a>
+<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img src="https://img.shields.io/badge/-Flask-444?&logo=Flask"><img></a>
 
 </div>
 <br/>
@@ -41,9 +41,9 @@
 
 <div height="180em">
 
-<a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-000?&logo=Docker"><img></a>
-<a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/-Git-000?&logo=Git"><img></a>
-<a href="https://docs.gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab"><img></a>
+<a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-444?&logo=Docker"><img></a>
+<a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/-Git-444?&logo=Git"><img></a>
+<a href="https://docs.gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-444?&logo=Gitlab"><img></a>
 
 </div>
 <br/>
