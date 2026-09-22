@@ -8,20 +8,22 @@ Itapema, SC · Remoto
 
 ---
 
-**Backend** — PHP 7.2–8.4 · Laravel 5–11 · CakePHP · APIs REST · Microsserviços · Multi-tenant · RabbitMQ · Redis · MySQL · PostgreSQL
-**Frontend** — Vue 2/3 · TypeScript · Inertia · React
-**Infra e qualidade** — Docker · GitLab CI/CD · Terraform · Linux · NGINX · PHPUnit · New Relic · Grafana · Graylog
-**Segurança** — OWASP Top 10 · Burp Suite · Kali Linux
+### Stack
+
+- **Backend** — PHP 7.2–8.4 · Laravel 5–11 · CakePHP · APIs REST · Microsserviços · Multi-tenant · RabbitMQ · Redis · MySQL · PostgreSQL
+- **Frontend** — Vue 2/3 · TypeScript · Inertia · React
+- **Infra e qualidade** — Docker · GitLab CI/CD · Terraform · Linux · NGINX · PHPUnit · New Relic · Grafana · Graylog
+- **Segurança** — OWASP Top 10 · Burp Suite · Kali Linux
 
 ---
 
 ### Projetos
 
-| | |
-|---|---|
-| [**pure-php-rest-api**](https://github.com/LucasFrts/pure-php-rest-api) | API REST em PHP puro, sem framework. Service container PSR-11 com autowiring via Reflection, roteador próprio, service layer e repositories, testado com PHPUnit. |
-| [**laravel-multitenancy**](https://github.com/LucasFrts/laravel-multitenancy) | Multi-tenancy em Laravel 11 com banco isolado por tenant, criação e migration automáticas. TALL Stack. |
-| [**mercurius-js**](https://github.com/LucasFrts/mercurius-js) | Worker de webhooks em TypeScript strict. BullMQ sobre Redis, backoff exponencial, dead-letter queue, Clean Architecture. |
+**[pure-php-rest-api](https://github.com/LucasFrts/pure-php-rest-api)** — API REST em PHP puro, sem framework. Service container PSR-11 com autowiring via Reflection, roteador próprio, service layer e repositories, testado com PHPUnit.
+
+**[laravel-multitenancy](https://github.com/LucasFrts/laravel-multitenancy)** — Multi-tenancy em Laravel 11 com banco isolado por tenant, criação e migration automáticas. TALL Stack.
+
+**[mercurius-js](https://github.com/LucasFrts/mercurius-js)** — Worker de webhooks em TypeScript strict. BullMQ sobre Redis, backoff exponencial, dead-letter queue, Clean Architecture.
 
 ---
 
