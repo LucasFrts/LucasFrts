@@ -2,7 +2,7 @@
 
 Desenvolvedor **Backend e Full Stack**, com foco em **PHP e Laravel**. Trabalho em plataformas SaaS multi-tenant de e-commerce: migração de legado para microsserviços, filas assíncronas, observabilidade e cobertura de testes.
 
-Como trilha secundária, atuo em **segurança de aplicações** — análise white-box, correção de falhas de autorização e automação ofensiva para bug bounty.
+Como trilha secundária, atuo em **segurança de aplicações (AppSec)** — análise white-box, teste de intrusão em aplicações web e correção de falhas de autorização e injeção.
 
 Itapema, SC · Remoto
 
