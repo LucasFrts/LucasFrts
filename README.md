@@ -1,65 +1,30 @@
-### Hello World!
+## Lucas Freitas
 
-:wave: Olá pessoal, me chamo Lucas, sou desenvolvedor de software com foco no desenvolvimento web, atualmente buscando me firmar como desenvolvedor fullstack. Além disso sou acadêmico de engenharia de software, amante de games e de técnologia.
+Desenvolvedor **Backend e Full Stack**, com foco em **PHP e Laravel**. Trabalho em plataformas SaaS multi-tenant de e-commerce: migração de legado para microsserviços, filas assíncronas, observabilidade e cobertura de testes.
 
-<br/>
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFrts&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFrts&layout=compact&langs_count=16&theme=github_dark"/>
-</div>
-<br>
+Como trilha secundária, atuo em **segurança de aplicações** — análise white-box, correção de falhas de autorização e automação ofensiva para bug bounty.
 
+Itapema, SC · Remoto
 
+---
 
+**Backend** — PHP 7.2–8.4 · Laravel 5–11 · CakePHP · APIs REST · Microsserviços · Multi-tenant · RabbitMQ · Redis · MySQL · PostgreSQL
+**Frontend** — Vue 2/3 · TypeScript · Inertia · React
+**Infra e qualidade** — Docker · GitLab CI/CD · Terraform · Linux · NGINX · PHPUnit · New Relic · Grafana · Graylog
+**Segurança** — OWASP Top 10 · Burp Suite · Kali Linux
 
-<h2><strong>Languages:</strong></h2>
-<div height="180em" >
+---
 
-<a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/-Python-444?&logo=Python"><img></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"><img src="https://img.shields.io/badge/-JavaScript-444?&logo=JavaScript"><img></a>
-<a href="https://www.php.net/docs.php" target="_blank"><img src="https://img.shields.io/badge/-PHP-444?&logo=PHP"><img></a>
-<a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.shields.io/badge/-SQL-444?&logo=MySQL"><img></a>
-<a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/-Java-444?&logo=java"><img></a>
-</div>
-<br/>
+### Projetos
 
+| | |
+|---|---|
+| [**pure-php-rest-api**](https://github.com/LucasFrts/pure-php-rest-api) | API REST em PHP puro, sem framework. Service container PSR-11 com autowiring via Reflection, roteador próprio, service layer e repositories, testado com PHPUnit. |
+| [**laravel-multitenancy**](https://github.com/LucasFrts/laravel-multitenancy) | Multi-tenancy em Laravel 11 com banco isolado por tenant, criação e migration automáticas. TALL Stack. |
+| [**mercurius-js**](https://github.com/LucasFrts/mercurius-js) | Worker de webhooks em TypeScript strict. BullMQ sobre Redis, backoff exponencial, dead-letter queue, Clean Architecture. |
 
-<h2><strong>Technologies:</strong></h2>
+---
 
-<div height="180em">
+Backend / Full Stack Developer specialized in **PHP and Laravel**, working on multi-tenant e-commerce SaaS platforms. Secondary focus on application security (AppSec).
 
-<a href="https://laravel.com/docs/7.x" target="_blank"><img src="https://img.shields.io/badge/-Laravel-444?&logo=Laravel"><img></a>
-<a href="https://nodejs.org/docs/latest-v17.x/api/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-444?&logo=node.js"><img></a>
-<a href="https://beta.reactjs.org/learn" target="_blank"><img src="https://img.shields.io/badge/-React-444?&logo=React"><img></a>
-<a href="https://v2.vuejs.org/v2/guide/" target="_blank"><img src="https://img.shields.io/badge/-Vue-444?&logo=Vue.Js"><img></a>
-<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img src="https://img.shields.io/badge/-Flask-444?&logo=Flask"><img></a>
-
-</div>
-<br/>
-<h2><strong>Devops Tools:</strong></h2>
-
-<div height="180em">
-
-<a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-444?&logo=Docker"><img></a>
-<a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/-Git-444?&logo=Git"><img></a>
-<a href="https://docs.gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-444?&logo=Gitlab"><img></a>
-
-</div>
-<br/>
-<i>To open the documentation, just click on the badges above</i><br>
-<br/>
-
-<h2><strong>My GitHub Trophies:</strong></h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LucasFrts&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-<i>You also can follow me on:</i><br>
-
-<a href="https://www.linkedin.com/in/freitas-luk18/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/insideyourbrainn/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/lnsideyourbrain" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://open.spotify.com/user/31biuftv4mz35tnkvvm37bwqps7y?si=1aff79ac76094b2c" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-
-
+[LinkedIn](https://www.linkedin.com/in/freitas-luk18/) · lucamrfreitas@icloud.com
